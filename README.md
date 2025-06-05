@@ -32,6 +32,8 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
 4. _Building Full-Stack Sites_ 🌐🚀
 
 5. _Continuous Learning_ 📚
+   <h3> I’m currently working on:</h3>
+   <p> An eCommerce project where I focus on building a responsive and user-friendly frontend interface, collaborating closely with backend developers to ensure smooth API integration and data flow. </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
