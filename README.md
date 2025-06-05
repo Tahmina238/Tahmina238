@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Tahmina Afroz</h1>
 <h1 align="left">
   🧑, About Me
-  <h3 align="left">Hey! 👋 I'm a MERN stack developer, focusing on React for front-end and exploring Next.js. comfortanle in Node.js, Express, and MongoDB for the back end. On a mission to become a versatile full-stack developer, aiming to craft seamless, user-centric web experiences. Let's connect and build something amazing! 🚀
+  <h3 align="left">I’m a Full Stack Developer with a strong focus on Frontend Development. I specialize in building modern, responsive, and user-friendly interfaces using technologies like React, Next.js, and Tailwind CSS. While my passion lies in creating seamless user experiences, I also have solid experience with backend development and database management, including Node.js, Express, MongoDB, and PostgreSQL. I enjoy working across the full stack to deliver complete, scalable solutions and am always eager to learn and improve my skills to stay ahead in the fast-evolving tech landscape
 </h3>
 </h1>
 
