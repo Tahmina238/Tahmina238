@@ -59,4 +59,31 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tahmina238&theme=highcontrast" alt="Tahmina238" />
 </p>
 
+<h3> 🔭 I’m currently working on:</h3>
+   <p> An eCommerce project where I focus on building a responsive and user-friendly frontend interface, collaborating closely with backend developers to ensure smooth API integration and data flow. </p>
+   <h3> 🌱 I’m currently learning:   </h3>
+   <p> Advanced backend systems, CI/CD pipelines, AWS deployment, and AI-powered features to build smarter and more scalable web applications. </p>
+   <h3>.
+
+👯 I want to collaborate on:
+
+</h3>
+<p> Frontend-focused open source projects, SaaS dashboards, or any product that needs a clean and modern user interface with full-stack integration. </p>
+<h3>🤔 I’m looking for help with:
+</h3>
+<p>Improving my backend architecture knowledge, especially microservices, authentication strategies, and optimizing performance in large-scale applications.</p>
+<h3>💬 Ask me about:
+</h3>
+<p>Frontend development with React & Next.js, Tailwind CSS, state management, component architecture, and how to build responsive and accessible UIs.</p>
+<h3>📫 How to reach me:
+</h3>
+<p>[your.email@example.com] or via LinkedIn / GitHub
+
+</p>
+<h3>⚡ Fun fact:
+</h3>
+<p>I love turning complex designs into pixel-perfect UIs and can spend hours tweaking the tiniest visual details—because great UX is in the details!
+</p>
+
+
 
