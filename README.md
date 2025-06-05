@@ -76,7 +76,7 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
 <p>Frontend development with React & Next.js, Tailwind CSS, state management, component architecture, and how to build responsive and accessible UIs.</p>
 <h3>📫 How to reach me:
 </h3>
-<p>[your.email@example.com] or via LinkedIn / GitHub
+<p>[tahmina.afroz8802@gmail.com] or via LinkedIn / GitHub
 
 </p>
 <h3>⚡ Fun fact:
