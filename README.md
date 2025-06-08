@@ -32,28 +32,28 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
 </ul>
 
 
- <h3 align="left">👀 Current overview:</h3>
+ <p>👀 <strong>Current overview:</strong><br>
+– <strong>Frontend Developer</strong></p>
 
- – Frontend Developer
- 
-🛍️ I am Working on a feature-rich eCommerce project with cart, product pages, and authentication
+<ul>
+  <li>🛍️ I am working on a <strong>feature-rich eCommerce project</strong> with <strong>cart</strong>, <strong>product pages</strong>, and <strong>authentication</strong></li>
 
-⚛️ Building modern UIs using React, Next.js, and TypeScript
+  <li>⚛️ Building <strong>modern UIs</strong> using <strong>React</strong>, <strong>Next.js</strong>, and <strong>TypeScript</strong></li>
 
-🎨 Styling with Tailwind CSS and ShadCN UI for clean and consistent design
+  <li>🎨 Styling with <strong>Tailwind CSS</strong> and <strong>ShadCN UI</strong> for <strong>clean</strong> and <strong>consistent design</strong></li>
 
-🌗 Implemented light/dark mode toggle using next-themes and lucide-react icons
+  <li>🌗 Implemented <strong>light/dark mode toggle</strong> using <strong>next-themes</strong> and <strong>lucide-react icons</strong></li>
 
-🔌 Integrating frontend with backend via Axios and REST APIs
+  <li>🔌 Integrating <strong>frontend</strong> with <strong>backend</strong> via <strong>Axios</strong> and <strong>REST APIs</strong></li>
 
-📱 Ensuring full mobile responsiveness and smooth user interactions
+  <li>📱 Ensuring full <strong>mobile responsiveness</strong> and smooth <strong>user interactions</strong></li>
 
-🧩 Creating reusable components (buttons, cards, modals, forms) for scalable development
+  <li>🧩 Creating <strong>reusable components</strong> (buttons, cards, modals, forms) for <strong>scalable development</strong></li>
 
-🐞 Debugging UI issues and improving performance and accessibility
+  <li>🐞 Debugging <strong>UI issues</strong> and improving <strong>performance</strong> and <strong>accessibility</strong></li>
 
-📤 Using GitHub for version control and collaborating through PRs.
-  
+  <li>📤 Using <strong>GitHub</strong> for <strong>version control</strong> and collaborating through <strong>PRs</strong></li>
+</ul>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
