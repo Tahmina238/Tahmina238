@@ -26,7 +26,7 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
 
 🧑‍💻 Use Tailwind CSS, ShadCN UI, and Framer Motion for beautiful, interactive designs
 
-🚀 Share frontend code and manage versions via GitHub .
+🚀 Share my code and manage versions via GitHub .
 
  <h3 align="left">👀 Current overview:</h3>
 
