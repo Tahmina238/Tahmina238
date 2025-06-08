@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b480c774-6201-4720-988f-9455a850c7da
-" alt="MasterHead">
+  <img src="https://i.ibb.co/d0Fyb52x/frontend-Img.jpg" alt="MasterHead">
 </p>
 
 <h1 align="center">Hi 👋, I'm Tahmina Afroz</h1>
