@@ -14,12 +14,19 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
 
 <h3 align="left">💻 What I do:</h3>
 
-- 🌱 - Crafting responsive and user-friendly interfaces using _React_
+🎨 Build responsive and user-friendly UI using HTML, CSS, JavaScript, React, and Next.js
 
-- 👩‍💻 - Building RESTful APIs with _Node.js_ and _Express_
-- 💾 - Integrating _MongoDB_ for database management with _Mongoose_
+🧩 Create reusable components and manage state with TypeScript, Redux, or Context API
 
-- 🌐 - Creating seamless end-to-end web applications
+🧪 Test UI functionality and fix bugs for smooth user experience
+
+🎯 Optimize web performance and accessibility
+
+🧱 Collaborate with backend developers to integrate APIs and dynamic data
+
+🧑‍💻 Use Tailwind CSS, ShadCN UI, and Framer Motion for beautiful, interactive designs
+
+🚀 Deploy frontend apps and manage versions via GitHub and CI/CD
 
  <h3 align="left">👀 Current overview:</h3>
 
