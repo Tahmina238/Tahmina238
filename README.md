@@ -74,51 +74,51 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" width="80" height="30"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" width="40" height="30"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" width="80" height="30"/>
   </a>
 
   <!-- Frameworks -->
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" width="40" height="30"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" width="80" height="30"/>
   </a>
   <a href="https://nextjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" width="40" height="30"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" width="80" height="30"/>
   </a>
 
   <!-- Styling -->
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" width="40" height="30"/>
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" width="80" height="30"/>
   </a>
   <a href="https://ui.shadcn.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/ShadCN_UI-111827?style=flat&logo=Vercel&logoColor=white" alt="ShadCN UI" width="40" height="30"/>
+    <img src="https://img.shields.io/badge/ShadCN_UI-111827?style=flat&logo=Vercel&logoColor=white" alt="ShadCN UI" width="80" height="30"/>
   </a>
   <a href="https://www.framer.com/motion/" target="_blank">
-    <img src="https://img.shields.io/badge/Framer%20Motion-EF5C54?style=flat&logo=framer&logoColor=white" alt="Framer Motion" width="40" height="30"/>
+    <img src="https://img.shields.io/badge/Framer%20Motion-EF5C54?style=flat&logo=framer&logoColor=white" alt="Framer Motion" width="80" height="30"/>
   </a>
 
   <!-- Backend & Database -->
   <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" width="40" height="30"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" width="80" height="30"/>
   </a>
   <a href="https://expressjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express.js" width="40" height="30"/>
+    <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express.js" width="80" height="30"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" width="40" height="30"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" width="80" height="30"/>
   </a>
 
   <!-- Tools -->
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" width="40" height="30"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" width="80" height="30"/>
   </a>
   <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" width="40" height="30"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" width="80" height="30"/>
   </a>
   <a href="https://vercel.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" width="40" height="30"/>
+    <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" width="80" height="30"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" width="40" height="30"/>
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" width="80" height="30"/>
   </a>
 </p>
 
