@@ -127,26 +127,30 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
   </a>
 </p>
 
-   <h4>.
-
-👯 I want to collaborate on:
-
-</h4>
-<p> Frontend-focused open source projects, SaaS dashboards, or any product that needs a clean and modern user interface with full-stack integration. </p>
-<h4>🤔 I’m looking for help with:
-</h4>
-<p>Improving my backend architecture knowledge, especially microservices, authentication strategies, and optimizing performance in large-scale applications.</p>
-<h4>💬 Ask me about:
-</h4>
-<p>Frontend development with React & Next.js, Tailwind CSS, state management, component architecture, and how to build responsive and accessible UIs.</p>
-<h4>📫 How to reach me:
-</h4>
-<p><a href="[tahmina.afroz8801@gmail.com] "</a>or via LinkedIn / GitHub
-
+   <h4>👯 I want to collaborate on:</h4>
+<p>
+  Frontend-focused <strong>open source projects</strong>, <strong>SaaS dashboards</strong>, or any product that needs a <strong>clean and modern user interface</strong> with <strong>full-stack integration</strong>. I'm especially interested in projects where I can apply my <strong>React, Next.js, Tailwind CSS, and TypeScript</strong> skills.
 </p>
-<h3>⚡ Fun fact:
-</h3>
-<p>I love turning complex designs into pixel-perfect UIs and can spend hours tweaking the tiniest visual details—because great UX is in the details!
+
+<h4>🤔 I’m looking for help with:</h4>
+<p>
+  Enhancing my <strong>backend architecture</strong> skills—especially in <strong>microservices</strong>, <strong>authentication strategies</strong>, and <strong>performance optimization</strong> for <strong>large-scale web applications</strong>.
+</p>
+
+<h4>💬 Ask me about:</h4>
+<p>
+  <strong>Frontend development</strong> using <strong>React</strong> and <strong>Next.js</strong>, <strong>Tailwind CSS</strong>, <strong>ShadCN UI</strong>, <strong>component architecture</strong>, <strong>state management</strong> with Redux or Context API, and building <strong>responsive</strong> and <strong>accessible UIs</strong>.
+</p>
+
+<h4>📫 How to reach me:</h4>
+<p>
+  Email: <a href="mailto:tahmina.afroz8801@gmail.com">tahmina.afroz8801@gmail.com</a> <br />
+  Connect with me on <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a> or view my work on <a href="https://github.com/" target="_blank">GitHub</a>.
+</p>
+
+<h4>⚡ Fun fact:</h4>
+<p>
+  I love turning <strong>complex designs</strong> into <strong>pixel-perfect UIs</strong> and can spend hours tweaking the tiniest details—because great <strong>user experience</strong> lives in the details!
 </p>
 
 
