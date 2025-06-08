@@ -144,7 +144,7 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
 
 <h4>📫 How to reach me:</h4>
 <p>
-  Email: <a href="mailto:gmail.com/compose">tahmina.afroz8801@gmail.com</a> <br />
+  Email: <a href="mailto:gmail.com">tahmina.afroz8801@gmail.com</a> <br />
   Connect with me on <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a> or view my work on <a href="https://github.com/" target="_blank">GitHub</a>.
 </p>
 
