@@ -31,7 +31,7 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
   <li>🚀 Share my <strong>code</strong> and manage <strong>versions</strong> via <strong>GitHub</strong></li>
 </ul>
 
-
+<hr>
  <h3>👀 <strong>Current overview:</strong></h3>
  
 – <strong>Frontend Developer</strong>
