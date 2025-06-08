@@ -14,19 +14,22 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
 
 <h3 align="left">💻 What I do:</h3>
 
- 🖥️ Build responsive and user-friendly UI using HTML, CSS, JavaScript, React, and Next.js
+ <ul>
+  <li>🖥️ Build <strong>responsive</strong> and <strong>user-friendly UI</strong> using <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React</strong>, and <strong>Next.js</strong></li>
 
-🧩 Create reusable components and manage state with TypeScript, Redux, or Context API
+  <li>🧩 Create <strong>reusable components</strong> and manage <strong>state</strong> with <strong>TypeScript</strong>, <strong>Redux</strong>, or <strong>Context API</strong></li>
 
-🧪 Test UI functionality and fix bugs for a smooth user experience
+  <li>🧪 Test <strong>UI functionality</strong> and fix <strong>bugs</strong> for a smooth <strong>user experience</strong></li>
 
-🎯 Optimize web performance and ensure accessibility
+  <li>🎯 Optimize <strong>web performance</strong> and <strong>accessibility</strong></li>
 
-🧱 Collaborate with backend developers to integrate APIs and dynamic data
+  <li>🧱 Collaborate with <strong>backend developers</strong> to integrate <strong>APIs</strong> and <strong>dynamic data</strong></li>
 
-🎨 Use Tailwind CSS, ShadCN UI, and Framer Motion to build beautiful, interactive designs
+  <li>🧑‍💻 Use <strong>Tailwind CSS</strong>, <strong>ShadCN UI</strong>, and <strong>Framer Motion</strong> for <strong>beautiful</strong>, <strong>interactive designs</strong></li>
 
-🚀 Share code and manage versions using Git and GitHub
+  <li>🚀 Share my <strong>code</strong> and manage <strong>versions</strong> via <strong>GitHub</strong></li>
+</ul>
+
 
  <h3 align="left">👀 Current overview:</h3>
 
