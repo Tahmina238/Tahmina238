@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/VWfhtFp1/wmremove-transformed.jpg" alt="MasterHead">
+  <img src="https://i.ibb.co/JFj0Wv7t/Screenshot-2025-06-08-135827.png" alt="MasterHead">
 </p>
 
 <h1 align="center">Hi 👋, I'm Tahmina Afroz</h1>
