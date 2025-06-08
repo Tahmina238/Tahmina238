@@ -32,8 +32,8 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
 </ul>
 
 
- <p>👀 <strong>Current overview:</strong><br>
-– <strong>Frontend Developer</strong></p>
+ <h3>👀 <strong>Current overview:</strong><br>
+– <strong>Frontend Developer</strong></h3>
 
 <ul>
   <li>🛍️ I am working on a <strong>feature-rich eCommerce project</strong> with <strong>cart</strong>, <strong>product pages</strong>, and <strong>authentication</strong></li>
@@ -54,7 +54,7 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
 
   <li>📤 Using <strong>GitHub</strong> for <strong>version control</strong> and collaborating through <strong>PRs</strong></li>
 </ul>
-
+<hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shohaib-hossain-0792041ba" height="30" width="40" /></a>
