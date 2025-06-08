@@ -31,6 +31,7 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
  <h3 align="left">👀 Current overview:</h3>
 
  – Frontend Developer
+ 
 🛍️ Working on a feature-rich eCommerce project with cart, product pages, and authentication
 
 ⚛️ Building modern UIs using React, Next.js, and TypeScript
