@@ -26,19 +26,28 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
 
 🧑‍💻 Use Tailwind CSS, ShadCN UI, and Framer Motion for beautiful, interactive designs
 
-🚀 Deploy frontend apps and manage versions via GitHub .
+🚀 Share frontend code and manage versions via GitHub .
 
  <h3 align="left">👀 Current overview:</h3>
 
-1. _Exploring Next.js_ 🚀
-2. _Working with React_ ⚛
+ – Frontend Developer
+🛍️ Working on a feature-rich eCommerce project with cart, product pages, and authentication
 
-3. _Implementing MongoDB, Mongoose, Express, Node.js Stack_  
-   _in Full Stack Development_ 🌐💻
+⚛️ Building modern UIs using React, Next.js, and TypeScript
 
-4. _Building Full-Stack Sites_ 🌐🚀
+🎨 Styling with Tailwind CSS and ShadCN UI for clean and consistent design
 
-5. _Continuous Learning_ 📚
+🌗 Implemented light/dark mode toggle using next-themes and lucide-react icons
+
+🔌 Integrating frontend with backend via Axios and REST APIs
+
+📱 Ensuring full mobile responsiveness and smooth user interactions
+
+🧩 Creating reusable components (buttons, cards, modals, forms) for scalable development
+
+🐞 Debugging UI issues and improving performance and accessibility
+
+📤 Using GitHub for version control and collaborating through PRs.
   
 
 <h3 align="center">Connect with me:</h3>
