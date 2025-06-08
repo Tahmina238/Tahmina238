@@ -65,7 +65,7 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
 </a>
 
 </p>
-
+<hr>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <!-- Languages -->
