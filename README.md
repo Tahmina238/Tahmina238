@@ -33,7 +33,7 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
 
 
  <h3>👀 <strong>Current overview:</strong></h3>
-   <br>
+ 
 – <strong>Frontend Developer</strong>
 
 <ul>
@@ -126,7 +126,7 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" width="80" height="30"/>
   </a>
 </p>
-
+<hr>
    <h4>👯 I want to collaborate on:</h4>
 <p>
   Frontend-focused <strong>open source projects</strong>, <strong>SaaS dashboards</strong>, or any product that needs a <strong>clean and modern user interface</strong> with <strong>full-stack integration</strong>. I'm especially interested in projects where I can apply my <strong>React, Next.js, Tailwind CSS, and TypeScript</strong> skills.
