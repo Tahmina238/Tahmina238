@@ -5,8 +5,8 @@
 <h1 align="center">Hi 👋, I'm Tahmina Afroz</h1>
 <h1 align="left">
   
-  <h4 align="left">I’m a Full Stack Developer with a strong focus on Frontend Development. I specialize in building modern, responsive, and user-friendly interfaces using technologies like React, Next.js, and Tailwind CSS. While my passion lies in creating seamless user experiences, I also have solid experience with backend development and database management, including Node.js, Express, MongoDB, and Postman. I enjoy working across the full stack to deliver complete, scalable solutions and am always eager to learn and improve my skills to stay ahead in the fast-evolving tech landscape.
-</h4>
+  <h3 align="left">I’m a Full Stack Developer with a strong focus on Frontend Development. I specialize in building modern, responsive, and user-friendly interfaces using technologies like React, Next.js, and Tailwind CSS. While my passion lies in creating seamless user experiences, I also have solid experience with backend development and database management, including Node.js, Express, MongoDB, and Postman. I enjoy working across the full stack to deliver complete, scalable solutions and am always eager to learn and improve my skills to stay ahead in the fast-evolving tech landscape.
+</h3>
 </h1>
 
 <img align="right" 
@@ -14,19 +14,19 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
 
 <h3 align="left">💻 What I do:</h3>
 
-🎨 Build responsive and user-friendly UI using HTML, CSS, JavaScript, React, and Next.js
+ 🖥️ Build responsive and user-friendly UI using HTML, CSS, JavaScript, React, and Next.js
 
 🧩 Create reusable components and manage state with TypeScript, Redux, or Context API
 
-🧪 Test UI functionality and fix bugs for smooth user experience
+🧪 Test UI functionality and fix bugs for a smooth user experience
 
-🎯 Optimize web performance and accessibility
+🎯 Optimize web performance and ensure accessibility
 
 🧱 Collaborate with backend developers to integrate APIs and dynamic data
 
-🧑‍💻 Use Tailwind CSS, ShadCN UI, and Framer Motion for beautiful, interactive designs
+🎨 Use Tailwind CSS, ShadCN UI, and Framer Motion to build beautiful, interactive designs
 
-🚀 Share my code and manage versions via GitHub .
+🚀 Share code and manage versions using Git and GitHub
 
  <h3 align="left">👀 Current overview:</h3>
 
