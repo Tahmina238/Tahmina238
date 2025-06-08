@@ -127,21 +127,21 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
   </a>
 </p>
 
-   <h3>.
+   <h4>.
 
 👯 I want to collaborate on:
 
-</h3>
+</h4>
 <p> Frontend-focused open source projects, SaaS dashboards, or any product that needs a clean and modern user interface with full-stack integration. </p>
-<h3>🤔 I’m looking for help with:
-</h3>
+<h4>🤔 I’m looking for help with:
+</h4>
 <p>Improving my backend architecture knowledge, especially microservices, authentication strategies, and optimizing performance in large-scale applications.</p>
-<h3>💬 Ask me about:
-</h3>
+<h4>💬 Ask me about:
+</h4>
 <p>Frontend development with React & Next.js, Tailwind CSS, state management, component architecture, and how to build responsive and accessible UIs.</p>
-<h3>📫 How to reach me:
-</h3>
-<p>[tahmina.afroz8801@gmail.com] or via LinkedIn / GitHub
+<h4>📫 How to reach me:
+</h4>
+<p><a href="[tahmina.afroz8801@gmail.com] "</a>or via LinkedIn / GitHub
 
 </p>
 <h3>⚡ Fun fact:
