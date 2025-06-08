@@ -32,8 +32,9 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
 </ul>
 
 
- <h3>👀 <strong>Current overview:</strong><br>
-– <strong>Frontend Developer</strong></h3>
+ <h3>👀 <strong>Current overview:</strong></h3>
+   <br>
+– <strong>Frontend Developer</strong>
 
 <ul>
   <li>🛍️ I am working on a <strong>feature-rich eCommerce project</strong> with <strong>cart</strong>, <strong>product pages</strong>, and <strong>authentication</strong></li>
