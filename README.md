@@ -15,22 +15,14 @@ width="400" height="350" src="  ">
 
 <h3 align="left">💻 What I do:</h3>
 
- <ul>
-  <li>🖥️ Build <strong>responsive</strong> and <strong>user-friendly UI</strong> using <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React</strong>, and <strong>Next.js</strong></li>
-
-  <li>🧩 Create <strong>reusable components</strong> and manage <strong>state</strong> with <strong>TypeScript</strong>, <strong>Redux</strong>, or <strong>Context API</strong></li>
-
-  <li>🧪 Test <strong>UI functionality</strong> and fix <strong>bugs</strong> for a smooth <strong>user experience</strong></li>
-
-  <li>🎯 Optimize <strong>web performance</strong> and <strong>accessibility</strong></li>
-
-  <li>🧱 Collaborate with <strong>backend developers</strong> to integrate <strong>APIs</strong> and <strong>dynamic data</strong></li>
-
-  <li>🧑‍💻 Use <strong>Tailwind CSS</strong>, <strong>ShadCN UI</strong>, and <strong>Framer Motion</strong> for <strong>beautiful</strong>, <strong>interactive designs</strong></li>
-
-  <li>🚀 Share my <strong>code</strong> and manage <strong>versions</strong> via <strong>GitHub</strong></li>
-</ul>
-
+ <ul> 
+   <li>🖥️ Develop <strong>responsive</strong>, <strong>intuitive</strong> user interfaces using <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React</strong>, and <strong>Next.js</strong></li> 
+   <li>🧩 Build <strong>modular components</strong> and manage <strong>application state</strong> with <strong>TypeScript</strong>, <strong>Redux</strong>, or the <strong>Context API</strong></li> <li>🧪 Debug and test <strong>UI features</strong> to ensure a <strong>seamless user experience</strong></li> 
+   <li>🎯 Enhance <strong>performance</strong> and ensure <strong>accessibility</strong> across all devices</li> 
+   <li>🧱 Work closely with <strong>backend teams</strong> to connect <strong>APIs</strong> and handle <strong>dynamic content</strong></li> 
+   <li>🧑‍💻 Design <strong>modern, interactive interfaces</strong> with <strong>Tailwind CSS</strong>, <strong>ShadCN UI</strong>, and <strong>Framer Motion</strong></li>
+   <li>🚀 Version control and share <strong>clean, maintainable code</strong> using <strong>GitHub</strong></li> 
+ </ul>
 <hr>
  <h3>👀 <strong>Current overview:</strong></h3>
  
