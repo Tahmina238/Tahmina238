@@ -17,7 +17,8 @@ width="000" height="000" src=" https://i.ibb.co/BHcxSZg6/Screenshot-2025-06-15-2
 
  <ul> 
    <li>🖥️ Develop <strong>responsive</strong>, <strong>intuitive</strong> user interfaces using <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React</strong>, and <strong>Next.js</strong></li> 
-   <li>🧩 Build <strong>modular components</strong> and manage <strong>application state</strong> with <strong>TypeScript</strong>, <strong>Redux</strong>, or the <strong>Context API</strong></li> <li>🧪 Debug and test <strong>UI features</strong> to ensure a <strong>seamless user experience</strong></li> 
+   <li>🧩 Build <strong>modular components</strong> and manage <strong>application state</strong> with <strong>TypeScript</strong>, <strong>Redux</strong>, or the <strong>Context API</strong></li> 
+   <li>🧪 Debug and test <strong>UI features</strong> to ensure a <strong>seamless user experience</strong></li> 
    <li>🎯 Enhance <strong>performance</strong> and ensure <strong>accessibility</strong> across all devices</li> 
    <li>🧱 Work closely with <strong>backend teams</strong> to connect <strong>APIs</strong> and handle <strong>dynamic content</strong></li> 
    <li>🧑‍💻 Design <strong>modern, interactive interfaces</strong> with <strong>Tailwind CSS</strong>, <strong>ShadCN UI</strong>, and <strong>Framer Motion</strong></li>
