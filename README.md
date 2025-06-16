@@ -2,7 +2,7 @@
   <img width="700"height="400" src=" https://i.ibb.co/4RVxKF9D/Screenshot-2025-06-15-213033.png" alt="MasterHead">
 </p>
 
-<h1 align="center">Hi 👋, I'm Tahmina Afroz</h1>
+<h1 align="center"> I'm Tahmina Afroz</h1>
 <h2  align="center"  >I am expart in </h2>
 
 <h1 align="left">
@@ -10,10 +10,8 @@
   <h3 align="left">I’m a Full Stack Developer with a strong focus on Frontend Development. I specialize in building modern, responsive, and user-friendly interfaces using technologies like React, Next.js, and Tailwind CSS. While my passion lies in creating seamless user experiences, I also have solid experience with backend development and database management, including Node.js, Express, MongoDB, and Postman. I enjoy working across the full stack to deliver complete, scalable solutions and am always eager to learn and improve my skills to stay ahead in the fast-evolving tech landscape.
 </h3>
 </h1>
-
-
 <img align="right" 
-width="400" height="350" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
+width="400" height="350" src=" https://i.ibb.co/RGkz3LFq/Screenshot-2025-06-15-215502.png">
 
 <h3 align="left">💻 What I do:</h3>
 
