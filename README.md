@@ -3,6 +3,8 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Tahmina Afroz</h1>
+<h2  align="center"  >I am expart in </h2>
+
 <h1 align="left">
   
   <h3 align="left">I’m a Full Stack Developer with a strong focus on Frontend Development. I specialize in building modern, responsive, and user-friendly interfaces using technologies like React, Next.js, and Tailwind CSS. While my passion lies in creating seamless user experiences, I also have solid experience with backend development and database management, including Node.js, Express, MongoDB, and Postman. I enjoy working across the full stack to deliver complete, scalable solutions and am always eager to learn and improve my skills to stay ahead in the fast-evolving tech landscape.
