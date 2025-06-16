@@ -28,25 +28,15 @@ width="000" height="000" src=" https://i.ibb.co/BHcxSZg6/Screenshot-2025-06-15-2
  
 – <strong>Frontend Developer</strong>
 
-<ul>
-  <li>🛍️ I am working on a <strong>feature-rich eCommerce project</strong> with <strong>cart</strong>, <strong>product pages</strong>, and <strong>authentication</strong></li>
-
-  <li>⚛️ Building <strong>modern UIs</strong> using <strong>React</strong>, <strong>Next.js</strong>, and <strong>TypeScript</strong></li>
-
-  <li>🎨 Styling with <strong>Tailwind CSS</strong> and <strong>ShadCN UI</strong> for <strong>clean</strong> and <strong>consistent design</strong></li>
-
-  <li>🌗 Implemented <strong>light/dark mode toggle</strong> using <strong>next-themes</strong> and <strong>lucide-react icons</strong></li>
-
-  <li>🔌 Integrating <strong>frontend</strong> with <strong>backend</strong> via <strong>Axios</strong> and <strong>REST APIs</strong></li>
-
-  <li>📱 Ensuring full <strong>mobile responsiveness</strong> and smooth <strong>user interactions</strong></li>
-
-  <li>🧩 Creating <strong>reusable components</strong> (buttons, cards, modals, forms) for <strong>scalable development</strong></li>
-
-  <li>🐞 Debugging <strong>UI issues</strong> and improving <strong>performance</strong> and <strong>accessibility</strong></li>
-
-  <li>📤 Using <strong>GitHub</strong> for <strong>version control</strong> and collaborating through <strong>PRs</strong></li>
-</ul>
+🛍️ Currently developing a comprehensive eCommerce platform featuring a full cart system, product pages, and user authentication
+⚛️ Crafting modern, scalable UIs with <strong>React</strong>, <strong>Next.js</strong>, and <strong>TypeScript</strong>
+🎨 Designing a clean, consistent look using <strong>Tailwind CSS</strong> and <strong>ShadCN UI</strong>
+🌗 Added support for <strong>light/dark themes</strong> using <strong>next-themes</strong> and <strong>lucide-react</strong> icons
+🔌 Integrating frontend and backend seamlessly with <strong>Axios</strong> and <strong>RESTful APIs</strong>
+📱 Prioritizing <strong>mobile responsiveness</strong> and delivering smooth, intuitive user interactions
+🧩 Building a library of <strong>reusable UI components</strong> (buttons, cards, modals, forms) for scalable development
+🐞 Troubleshooting and fixing <strong>UI bugs</strong> while optimizing for <strong>performance</strong> and <strong>accessibility</strong>
+📤 Leveraging <strong>GitHub</strong> for source control and team collaboration through <strong>pull requests</strong>
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
