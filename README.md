@@ -137,5 +137,11 @@ width="000" height="000" src=" https://i.ibb.co/BHcxSZg6/Screenshot-2025-06-15-2
   I love turning <strong>complex designs</strong> into <strong>pixel-perfect UIs</strong> and can spend hours tweaking the tiniest details—because great <strong>user experience</strong> lives in the details!
 </p>
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tahmina238&show_icons=true&theme=merko&locale=en&layout=compact" alt="Tahmina238" /></p>
 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tahmina238&show_icons=true&theme=merko&locale=en" alt="Tahmina238" /></p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tahmina238&theme=highcontrast" alt="Tahmina238" />
+</p>
 
