@@ -11,7 +11,7 @@
 </h3>
 </h1>
 <img align="right" 
-width="400" height="350" src=" https://i.ibb.co/RGkz3LFq/Screenshot-2025-06-15-215502.png">
+width="400" height="350" src=" https://i.ibb.co/Z68cy4j7/images-3.png ">
 
 <h3 align="left">💻 What I do:</h3>
 
