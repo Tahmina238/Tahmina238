@@ -11,7 +11,7 @@
 </h3>
 </h1>
 <img align="right" 
-width="400" height="350" src=" https://i.ibb.co/BHcxSZg6/Screenshot-2025-06-15-223145.png ">
+width="400" height="350" src="  ">
 
 <h3 align="left">💻 What I do:</h3>
 
@@ -58,8 +58,8 @@ width="400" height="350" src=" https://i.ibb.co/BHcxSZg6/Screenshot-2025-06-15-2
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shohaib-hossain-0792041ba" height="30" width="40" /></a>
-<a href="https://fb.com/ananta.asim.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ananta.asim.5" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://fb.com/ananta.asim.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
 <a href="mailto:khanshohaibhossain@gmail.com" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="khanshohaibhossain@gmail.com" height="30" width="40" />
 </a>
