@@ -1,6 +1,5 @@
 <p align="center">
-<iframe src="https://lottie.host/embed/b6fb1a7b-e567-4073-b9f5-565d953b8a25/hlRnMaPJjR.lottie"></iframe>
-  
+  <img src="https://img.freepik.com/premium-vector/woman-programmer-working-new-project_701961-1111.jpg" alt="Woman programmer working on new project">
 </p>
 
 <h1 align="center"> I'm Tahmina Afroz</h1>
